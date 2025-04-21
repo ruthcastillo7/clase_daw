@@ -1,4 +1,4 @@
 #Tarea:
-
-1: ruta relativa y ruta absoluta
-2: uniaes de meia de una pagina web
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
