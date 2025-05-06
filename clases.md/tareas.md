@@ -3,7 +3,7 @@
 ![alt text](image-3.png)
 ![alt text](image-4.png)
 
-##Tipos de INPUT
+## Tipos de INPUT
 
 se utilizan para crear campos de entrada en formularios, **permitiendo a los usuarios ingresar datos** de diversos tipos, como texto, números, fechas, etc. La etiqueta input tiene un atributo type que determina el tipo de campo de entrada y su comportamiento. 
 
@@ -70,3 +70,5 @@ Puedes utilizar el **atributo multiple** en combinación con el tipo **input ema
 ```html
 <input type="email" id="email" name="email" multiple />
 ```
+## Atributos del button
+## Atributos booleanos

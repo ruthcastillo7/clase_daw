@@ -14,16 +14,17 @@
         <a href="../index.html">Inicio</a>
         <a href=".">Inputs</a>
         <a href="./button.html">Buttons</a>
+        <a href="./contacto.html">Formularios de contacto</a>
     </nav>
 
     <section>
         <p>los input son los elementos que se crean como contenido de
              un formulario, y  nos permiten interactuar con el usuario, 
              recolectar informacion a travez de nuestra pagina</p>
-             <input type="text">
-             <input type="email">
+             <input type="text" disable>
+             <input type="email" required>
              <input type="password">
-             <input type="tel">
+             <input type="tel" placeholder="ingresa tu celular">
              <input type="button">
              <input type="text">
              <input type="checkbox">
@@ -44,6 +45,11 @@
              <input type="datetime-local">
              <input type="month">
              <input type="week">
+             <!--los elementos inut al igual que otros, tienen atributos boleanos
+             "disable": hace que la casilla se desavilite>
+             "required": obligatorio  (escribir si o si info)
+             "placeholder": se da texto info. al usuario
+             existe uno que valida tu contraseña y si le falta algo-->
     </section>
 
     <script src="../js/scripts.js"></script>
